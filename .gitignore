@@ -237,3 +237,5 @@ nbdist/
 .history
 
 # End of https://www.gitignore.io/api/java,macos,maven,eclipse,netbeans,intellij,visualstudiocode
+.metadata
+.metadata
